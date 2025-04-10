@@ -405,8 +405,10 @@ public class FillupActivity extends BaseFormActivity {
                 if (previous == null) {
                     mFillup.setEconomy(0D);
                 } else {
-                    double economy =
-                            Calculator.averageEconomy(v, new FillupSeries(previous, mFillup));
+                    double economy = FuelEfficiencyCalculator.calculateEconomy(
+                            v,
+                            new FillupSeries(previous, mFillup)
+                    );
                     mFillup.setEconomy(economy);
                 }
             }

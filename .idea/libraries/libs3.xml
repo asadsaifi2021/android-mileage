@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tags/2.2.5/libs/opencsv-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tags/2.2.5/libs/achartengine-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

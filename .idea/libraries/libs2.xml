@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/trunk/libs/aiCharts.2.0.0.182.84147.jar!/" />
+      <root url="jar://$PROJECT_DIR$/trunk/libs/opencsv-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
